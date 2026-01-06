@@ -18,7 +18,7 @@ cd ~/MagicMirror/modules
 
 2. Clone this repository:
 ```
-git clone https://github.com/yourusername/MMM-NotificationSender.git
+git clone https://github.com/ChrisF1976/MMM-NotificationSender.git
 ```
 
 3. Add the module to your `config/config.js` file.
